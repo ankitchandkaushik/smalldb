@@ -1,7 +1,6 @@
 package chand.ankit.kv;
 
 import java.io.ByteArrayOutputStream;
-import java.io.EOFException;
 import java.io.File;
 import java.io.IOException;
 import java.io.InputStream;
